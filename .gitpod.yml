@@ -1,0 +1,3 @@
+tasks:
+  - name: Install Dependencies
+    init: npm install
