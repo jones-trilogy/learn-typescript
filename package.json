@@ -1,0 +1,12 @@
+{
+  "name": "learn-typescript",
+  "private": "false",
+  "engines": {
+    "node": ">=14.0.0",
+    "npm": ">=6.0.0"
+  },
+  "dependencies": {
+    "ts-node": "10.9.1",
+    "typescript": "5.0.4"
+  }
+}
