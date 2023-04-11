@@ -1,3 +1,5 @@
 tasks:
   - name: Install Dependencies
-    init: npm install
+    init: |
+      npm install -g ts-node
+      npm install
